@@ -1,0 +1,25 @@
+{
+  "name": "@sean9999/yass",
+  "version": "1.0.0",
+  "description": "yet another static server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Macdonald <sean.macdonald@stjoseph.com>",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean9999/yass.js.git"
+  },
+  "keywords": [
+    "simple",
+    "static",
+    "server"
+  ],
+  "bugs": {
+    "url": "https://github.com/sean9999/yass.js/issues"
+  },
+  "homepage": "https://github.com/sean9999/yass.js#readme"
+}
